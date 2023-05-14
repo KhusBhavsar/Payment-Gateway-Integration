@@ -119,12 +119,13 @@ h1{
     padding: 10px;
     margin-top: 20px;
     background-color: black;
+    border: 2px solid white;
     text-shadow: none;
-    border: none;
+    border-radius: 20px;
 }
 
 .container a button:hover{
-    border-radius: 20px;
+   
     background-color: blanchedalmond;
     color: black;
     border: 2px solid black;
